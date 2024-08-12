@@ -109,11 +109,6 @@ After applying these models, the results are compared using metrics such as Mean
 ## Project Files
 
 - `FinancialEngineering_TimeSeriesForecasting.ipynb`: The Jupyter Notebook containing all the code for data preprocessing, analysis, and forecasting.
-- `requirements.txt` (optional): A file listing all the necessary Python libraries for the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
